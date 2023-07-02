@@ -1,0 +1,452 @@
+[
+  {
+	"pronoun_id": "unset",
+	"pronoun_cat": "Unset",
+	"rankvalue": "0",
+	"pronouns": [
+	  {
+		"sub": "they",
+		"obj": "them",
+		"psub": "their",
+		"pobj": "theirs",
+		"refl": "themself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "are",
+		"were": "were",
+		"dare": "dare",
+		"do": "do",
+		"have": "have",
+		"need": "need"
+	  }
+	]
+  },
+  {
+	"pronoun_id": "aeaer",
+	"pronoun_cat": "Ae/Aer",
+	"rankvalue": "1",
+	"pronouns": [
+	  {
+		"sub": "ae",
+		"obj": "aer",
+		"psub": "aer",
+		"pobj": "aers",
+		"refl": "aerself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "is",
+		"were": "was",
+		"dare": "dares",
+		"do": "does",
+		"have": "has",
+		"need": "needs"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "any",
+	"pronoun_cat": "Any",
+	"rankvalue": "2",
+	"pronouns": [
+	  {
+		"sub": "they",
+		"obj": "them",
+		"psub": "their",
+		"pobj": "theirs",
+		"refl": "themself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "are",
+		"were": "were",
+		"dare": "dare",
+		"do": "do",
+		"have": "have",
+		"need": "need"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "eem",
+	"pronoun_cat": "E/Em",
+	"rankvalue": "3",
+	"pronouns": [
+	  {
+		"sub": "e",
+		"obj": "em",
+		"psub": "eir",
+		"pobj": "eirs",
+		"refl": "eirself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "is",
+		"were": "was",
+		"dare": "dares",
+		"do": "does",
+		"have": "has",
+		"need": "needs"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "faefaer",
+	"pronoun_cat": "Fae/Faer",
+	"rankvalue": "4",
+	"pronouns": [
+	  {
+		"sub": "fae",
+		"obj": "faer",
+		"psub": "faer",
+		"pobj": "faers",
+		"refl": "faerself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "is",
+		"were": "was",
+		"dare": "dares",
+		"do": "does",
+		"have": "has",
+		"need": "needs"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "hehim",
+	"pronoun_cat": "He/Him",
+	"rankvalue": "5",
+	"pronouns": [
+	  {
+		"sub": "he",
+		"obj": "him",
+		"psub": "his",
+		"pobj": "his",
+		"refl": "himself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "is",
+		"were": "was",
+		"dare": "dares",
+		"do": "does",
+		"have": "has",
+		"need": "needs"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "heshe",
+	"pronoun_cat": "He/She",
+	"rankvalue": "6",
+	"pronouns": [
+	  {
+		"sub": "they",
+		"obj": "them",
+		"psub": "their",
+		"pobj": "theirs",
+		"refl": "themself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "are",
+		"were": "were",
+		"dare": "dare",
+		"do": "do",
+		"have": "have",
+		"need": "need"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "hethey",
+	"pronoun_cat": "He/They",
+	"rankvalue": "7",
+	"pronouns": [
+	  {
+		"sub": "they",
+		"obj": "them",
+		"psub": "their",
+		"pobj": "theirs",
+		"refl": "themself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "are",
+		"were": "were",
+		"dare": "dare",
+		"do": "do",
+		"have": "have",
+		"need": "need"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "itits",
+	"pronoun_cat": "It/Its",
+	"rankvalue": "8",
+	"pronouns": [
+	  {
+		"sub": "it",
+		"obj": "it",
+		"psub": "its",
+		"pobj": "its",
+		"refl": "itself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "is",
+		"were": "was",
+		"dare": "dares",
+		"do": "does",
+		"have": "has",
+		"need": "needs"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "other",
+	"pronoun_cat": "Other",
+	"rankvalue": "9",
+	"pronouns": [
+	  {
+		"sub": "they",
+		"obj": "them",
+		"psub": "their",
+		"pobj": "theirs",
+		"refl": "themself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "are",
+		"were": "were",
+		"dare": "dare",
+		"do": "do",
+		"have": "have",
+		"need": "need"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "perper",
+	"pronoun_cat": "Per/Per",
+	"rankvalue": "10",
+	"pronouns": [
+	  {
+		"sub": "per",
+		"obj": "per",
+		"psub": "pers",
+		"pobj": "pers",
+		"refl": "perself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "is",
+		"were": "was",
+		"dare": "dares",
+		"do": "does",
+		"have": "has",
+		"need": "needs"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "sheher",
+	"pronoun_cat": "She/Her",
+	"rankvalue": "11",
+	"pronouns": [
+	  {
+		"sub": "she",
+		"obj": "her",
+		"psub": "her",
+		"pobj": "hers",
+		"refl": "herself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "is",
+		"were": "was",
+		"dare": "dares",
+		"do": "does",
+		"have": "has",
+		"need": "needs"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "shethey",
+	"pronoun_cat": "She/They",
+	"rankvalue": "12",
+	"pronouns": [
+	  {
+		"sub": "they",
+		"obj": "them",
+		"psub": "their",
+		"pobj": "theirs",
+		"refl": "themself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "are",
+		"were": "were",
+		"dare": "dare",
+		"do": "do",
+		"have": "have",
+		"need": "need"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "theythem",
+	"pronoun_cat": "They/Them",
+	"rankvalue": "13",
+	"pronouns": [
+	  {
+		"sub": "they",
+		"obj": "them",
+		"psub": "their",
+		"pobj": "theirs",
+		"refl": "themself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "are",
+		"were": "were",
+		"dare": "dare",
+		"do": "do",
+		"have": "have",
+		"need": "need"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "vever",
+	"pronoun_cat": "Ve/Ver",
+	"rankvalue": "14",
+	"pronouns": [
+	  {
+		"sub": "ve",
+		"obj": "ver",
+		"psub": "vis",
+		"pobj": "vis",
+		"refl": "verself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "is",
+		"were": "was",
+		"dare": "dares",
+		"do": "does",
+		"have": "has",
+		"need": "needs"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "xexem",
+	"pronoun_cat": "Xe/Xem",
+	"rankvalue": "15",
+	"pronouns": [
+	  {
+		"sub": "xe",
+		"obj": "xem",
+		"psub": "xyr",
+		"pobj": "xyrs",
+		"refl": "xemself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "is",
+		"were": "was",
+		"dare": "dares",
+		"do": "does",
+		"have": "has",
+		"need": "needs"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "ziehir",
+	"pronoun_cat": "Zie/Hir",
+	"rankvalue": "16",
+	"pronouns": [
+	  {
+		"sub": "zie",
+		"obj": "hir",
+		"psub": "hir",
+		"pobj": "hirs",
+		"refl": "hirself"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "is",
+		"were": "was",
+		"dare": "dares",
+		"do": "does",
+		"have": "has",
+		"need": "needs"
+		
+	  }
+	]
+  },
+  {
+	"pronoun_id": "lowercase id used in APIs",
+	"pronoun_cat": "Mixed/Case",
+	"rankvalue": "The counter to remind me what value this is in the Rank system",
+	"pronouns": [
+	  {
+		"sub": "subject",
+		"obj": "object",
+		"psub": "possessive subject",
+		"pobj": "possessive object",
+		"refl": "reflexive/intransive"
+	  }
+	],
+	"auxverbs": [
+	  {
+		"are": "is/are",
+		"were": "was/were",
+		"dare": "dares/dare",
+		"do": "does/do",
+		"have": "has/have",
+		"need": "needs/need"
+		
+	  }
+	]
+  }
+]
+  
