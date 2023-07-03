@@ -5,11 +5,11 @@
 	"rankvalue": "0",
 	"pronouns": [
 	  {
-		"sub": "they",
-		"obj": "them",
-		"psub": "their",
-		"pobj": "theirs",
-		"refl": "themself"
+		"they": "they",
+		"them": "them",
+		"their": "their",
+		"theirs": "theirs",
+		"themself": "themself"
 	  }
 	],
 	"auxverbs": [
@@ -29,11 +29,11 @@
 	"rankvalue": "1",
 	"pronouns": [
 	  {
-		"sub": "ae",
-		"obj": "aer",
-		"psub": "aer",
-		"pobj": "aers",
-		"refl": "aerself"
+		"they": "ae",
+		"them": "aer",
+		"their": "aer",
+		"theirs": "aers",
+		"themself": "aerself"
 	  }
 	],
 	"auxverbs": [
@@ -54,11 +54,11 @@
 	"rankvalue": "2",
 	"pronouns": [
 	  {
-		"sub": "they",
-		"obj": "them",
-		"psub": "their",
-		"pobj": "theirs",
-		"refl": "themself"
+		"they": "they",
+		"them": "them",
+		"their": "their",
+		"theirs": "theirs",
+		"themself": "themself"
 	  }
 	],
 	"auxverbs": [
@@ -79,11 +79,11 @@
 	"rankvalue": "3",
 	"pronouns": [
 	  {
-		"sub": "e",
-		"obj": "em",
-		"psub": "eir",
-		"pobj": "eirs",
-		"refl": "eirself"
+		"they": "e",
+		"them": "em",
+		"their": "eir",
+		"theirs": "eirs",
+		"themself": "eirself"
 	  }
 	],
 	"auxverbs": [
@@ -104,11 +104,11 @@
 	"rankvalue": "4",
 	"pronouns": [
 	  {
-		"sub": "fae",
-		"obj": "faer",
-		"psub": "faer",
-		"pobj": "faers",
-		"refl": "faerself"
+		"they": "fae",
+		"them": "faer",
+		"their": "faer",
+		"theirs": "faers",
+		"themself": "faerself"
 	  }
 	],
 	"auxverbs": [
@@ -129,11 +129,11 @@
 	"rankvalue": "5",
 	"pronouns": [
 	  {
-		"sub": "he",
-		"obj": "him",
-		"psub": "his",
-		"pobj": "his",
-		"refl": "himself"
+		"they": "he",
+		"them": "him",
+		"their": "his",
+		"theirs": "his",
+		"themself": "himself"
 	  }
 	],
 	"auxverbs": [
@@ -154,11 +154,11 @@
 	"rankvalue": "6",
 	"pronouns": [
 	  {
-		"sub": "they",
-		"obj": "them",
-		"psub": "their",
-		"pobj": "theirs",
-		"refl": "themself"
+		"they": "they",
+		"them": "them",
+		"their": "their",
+		"theirs": "theirs",
+		"themself": "themself"
 	  }
 	],
 	"auxverbs": [
@@ -179,11 +179,11 @@
 	"rankvalue": "7",
 	"pronouns": [
 	  {
-		"sub": "they",
-		"obj": "them",
-		"psub": "their",
-		"pobj": "theirs",
-		"refl": "themself"
+		"they": "they",
+		"them": "them",
+		"their": "their",
+		"theirs": "theirs",
+		"themself": "themself"
 	  }
 	],
 	"auxverbs": [
@@ -204,11 +204,11 @@
 	"rankvalue": "8",
 	"pronouns": [
 	  {
-		"sub": "it",
-		"obj": "it",
-		"psub": "its",
-		"pobj": "its",
-		"refl": "itself"
+		"they": "it",
+		"them": "it",
+		"their": "its",
+		"theirs": "its",
+		"themself": "itself"
 	  }
 	],
 	"auxverbs": [
@@ -229,11 +229,11 @@
 	"rankvalue": "9",
 	"pronouns": [
 	  {
-		"sub": "they",
-		"obj": "them",
-		"psub": "their",
-		"pobj": "theirs",
-		"refl": "themself"
+		"they": "they",
+		"them": "them",
+		"their": "their",
+		"theirs": "theirs",
+		"themself": "themself"
 	  }
 	],
 	"auxverbs": [
@@ -254,11 +254,11 @@
 	"rankvalue": "10",
 	"pronouns": [
 	  {
-		"sub": "per",
-		"obj": "per",
-		"psub": "pers",
-		"pobj": "pers",
-		"refl": "perself"
+		"they": "per",
+		"them": "per",
+		"their": "pers",
+		"theirs": "pers",
+		"themself": "perself"
 	  }
 	],
 	"auxverbs": [
@@ -279,11 +279,11 @@
 	"rankvalue": "11",
 	"pronouns": [
 	  {
-		"sub": "she",
-		"obj": "her",
-		"psub": "her",
-		"pobj": "hers",
-		"refl": "herself"
+		"they": "she",
+		"them": "her",
+		"their": "her",
+		"theirs": "hers",
+		"themself": "herself"
 	  }
 	],
 	"auxverbs": [
@@ -304,11 +304,11 @@
 	"rankvalue": "12",
 	"pronouns": [
 	  {
-		"sub": "they",
-		"obj": "them",
-		"psub": "their",
-		"pobj": "theirs",
-		"refl": "themself"
+		"they": "they",
+		"them": "them",
+		"their": "their",
+		"theirs": "theirs",
+		"themself": "themself"
 	  }
 	],
 	"auxverbs": [
@@ -329,11 +329,11 @@
 	"rankvalue": "13",
 	"pronouns": [
 	  {
-		"sub": "they",
-		"obj": "them",
-		"psub": "their",
-		"pobj": "theirs",
-		"refl": "themself"
+		"they": "they",
+		"them": "them",
+		"their": "their",
+		"theirs": "theirs",
+		"themself": "themself"
 	  }
 	],
 	"auxverbs": [
@@ -354,11 +354,11 @@
 	"rankvalue": "14",
 	"pronouns": [
 	  {
-		"sub": "ve",
-		"obj": "ver",
-		"psub": "vis",
-		"pobj": "vis",
-		"refl": "verself"
+		"they": "ve",
+		"them": "ver",
+		"their": "vis",
+		"theirs": "vis",
+		"themself": "verself"
 	  }
 	],
 	"auxverbs": [
@@ -379,11 +379,11 @@
 	"rankvalue": "15",
 	"pronouns": [
 	  {
-		"sub": "xe",
-		"obj": "xem",
-		"psub": "xyr",
-		"pobj": "xyrs",
-		"refl": "xemself"
+		"they": "xe",
+		"them": "xem",
+		"their": "xyr",
+		"theirs": "xyrs",
+		"themself": "xemself"
 	  }
 	],
 	"auxverbs": [
@@ -404,11 +404,11 @@
 	"rankvalue": "16",
 	"pronouns": [
 	  {
-		"sub": "zie",
-		"obj": "hir",
-		"psub": "hir",
-		"pobj": "hirs",
-		"refl": "hirself"
+		"they": "zie",
+		"them": "hir",
+		"their": "hir",
+		"theirs": "hirs",
+		"themself": "hirself"
 	  }
 	],
 	"auxverbs": [
@@ -429,11 +429,11 @@
 	"rankvalue": "The counter to remind me what value this is in the Rank system",
 	"pronouns": [
 	  {
-		"sub": "subject",
-		"obj": "object",
-		"psub": "possessive subject",
-		"pobj": "possessive object",
-		"refl": "reflexive/intransive"
+		"they": "object",
+		"them": "subect",
+		"their": "possessive object",
+		"theirs": "possessive subject",
+		"themself": "reflexive/intransive"
 	  }
 	],
 	"auxverbs": [
