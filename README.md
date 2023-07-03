@@ -1,10 +1,4 @@
-# MixItUp-Resources
-Resources and scripts I'm using for MixItUp bot
-
-## Publicly Released MixItUp Commands
-- Dice
-- Dynamic Dictionary
-- Pronouns And Auxiliary Verbs
+# Publicly Released MixItUp Commands
 
 ## [Dice](https://mixitupapp.com/community/command/45c6cd17-384b-4039-b874-6b581824f3de)
 ![Photo of several dice used in tabletop role playing games, with a 20 sided die in the center of the shot. The dice are a pearlescent blue with yellow numbers and the background is light pink.](/assets/images/Dice Thumbnail.png)
@@ -54,7 +48,8 @@ She/They 12
 They/Them 13
 Ve/Ver 14
 Xe/Xem 15
-Zie/Hir 16 ```
+Zie/Hir 16 
+```
 
 The second is an example/Usage Guide specifically for integration with my "Set Pronouns From Alejo" command. This command does not work on it's own. 
 
