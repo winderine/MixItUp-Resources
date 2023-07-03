@@ -2,6 +2,7 @@
 
 ## [Dice](https://mixitupapp.com/community/command/45c6cd17-384b-4039-b874-6b581824f3de)
 ![Photo of several dice used in tabletop role playing games, with a 20 sided die in the center of the shot. The dice are a pearlescent blue with yellow numbers and the background is light pink.](assets/images/Dice-Thumbnail.png)
+<img src="assets/images/Dice-Thumbnail.png">
 
 Simple dice roller that adds the dice (Now with Safety Precautions™)
 
