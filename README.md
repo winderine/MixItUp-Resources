@@ -1,7 +1,8 @@
 # Publicly Released MixItUp Commands
 
 ## [Dice](https://mixitupapp.com/community/command/45c6cd17-384b-4039-b874-6b581824f3de)
-![Photo of several dice used in tabletop role playing games, with a 20 sided die in the center of the shot. The dice are a pearlescent blue with yellow numbers and the background is light pink.](/assets/images/Dice Thumbnail.png)
+![Photo of several dice used in tabletop role playing games, with a 20 sided die in the center of the shot. The dice are a pearlescent blue with yellow numbers and the background is light pink.](assets/images/Dice Thumbnail.png)
+
 Simple dice roller that adds the dice (Now with Safety Precautions™)
 
 use !d (dice) (sides):
@@ -13,6 +14,7 @@ You could extend this by setting a "Counter" or Global "Special Identifier" to s
 
 ## [Dynamic Dictionary](https://mixitupapp.com/community/command/b3953d70-a866-455d-98ca-ce337914a8dd)
 ![Graphic of the words "Rina's Dynamic Dictionary" in yellow text on an orange, beveled square with trimmed corners. There are orange dotted lines at the top and bottom with squares at the ends, and the background is a darker red-orange.](/assets/images/Dynamic Dictionary Thumbnail.png)
+
 A pretty robust dictionary command that uses Wiktionary via the Free Dictionary API (https://dictionaryapi.dev/). It can load multiple definitions for multiple parts of speech, and because of some curious behavior on the part of the API there is also support for a second "word", although this second word only supports two parts of speech. 
 
 Test the script with words like "well" and "fast" to see how spammy it can get.
@@ -21,6 +23,7 @@ Please note that this script relies on an initializer JSON file that is hosted o
 
 ## Pronouns And Auxiliary Verbs
 ![Graphic of the letter "P" in yellow text on an orange, beveled square with cut-out corners. The background is a darker red-orange.](/assets/images/Pronouns Thumbnail.png)
+
 Two parts: 
 - [Set Pronouns](https://mixitupapp.com/community/command/5dae9acf-6102-4cce-8e7e-45b04ef7257c)
 - [Pronouns And Auxiliary Verbs Example](https://mixitupapp.com/community/command/79f1d101-9907-424c-8b21-967340f67f46)
