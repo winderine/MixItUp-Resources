@@ -32,7 +32,8 @@ Based on the Pronouns command by TicketsTom
 Once this command is set up (see below) and run, you can refer to people's pronouns in other commands using $targetuserpronouns (numerical value) and $targetuserpronounsrank (pronouns category), which is used in the "Pronouns and Auxiliary Verbs" command
 
 ⚠ Because it stores pronouns to ranks for integration with other commands, you will need to create this "ranking" system as shown in the screenshot with these values:
-``` Unset 0
+``` 
+Unset 0
 Ae/Aer 1
 Any 2
 E/Em 3
